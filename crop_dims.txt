@@ -1,0 +1,32 @@
+[Yesterday 10:56 AM] Manasa Nagaraja
+    
+USPS --
+Target::
+ROI_X_UPPER_LEFT = 158
+ROI_Y_UPPER_LEFT = 79
+ROI_WIDTH = 165
+ROI_HEIGHT = 162
+signature crop= (85, 30, 12, 12)
+
+Confirm::
+ROI_X_UPPER_LEFT = 2
+ROI_Y_UPPER_LEFT = 94
+ROI_WIDTH = 226
+ROI_HEIGHT = 154
+signature crop= (184, 3, 16, 14)
+
+Edited​[Yesterday 10:58 AM] Manasa Nagaraja
+    APBS
+Target::
+ROI_X_UPPER_LEFT = 80
+ROI_Y_UPPER_LEFT = 100
+ROI_WIDTH = 200
+ROI_HEIGHT = 180
+signature crop= (268, 5, 17, 15)
+
+Confirm::
+ROI_X_UPPER_LEFT = 130
+ROI_Y_UPPER_LEFT = 8
+ROI_WIDTH = 199
+ROI_HEIGHT = 178
+signature crop= (320, 11, 14, 12)
